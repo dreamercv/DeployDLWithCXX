@@ -1,0 +1,3 @@
+yolov4\v5需要的openvino版本为2020.3.355
+其中v4现将模型转成pb在转成ir
+v5是先转成onnx在转成ir

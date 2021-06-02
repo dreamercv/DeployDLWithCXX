@@ -1,0 +1,4 @@
+/home/openvino_yolov5/build/CMakeFiles/edit_cache.dir
+/home/openvino_yolov5/build/CMakeFiles/rebuild_cache.dir
+/home/openvino_yolov5/build/CMakeFiles/detect_test.dir
+/home/openvino_yolov5/build/CMakeFiles/detector.dir
